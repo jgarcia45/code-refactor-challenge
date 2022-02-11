@@ -1,7 +1,7 @@
 # HTML CSS Git Challenge: Code Refactor
 
 ## Description
-Our task for the Challenge is for us to modify code that was given to us. We must take the existing code and refactor it so that it will meet a set of standards or to implement new technology. The acceptance criteria were as followed.
+Our task for the Challenge is for us to modify code that was given to us. We must take the existing code and refactor it so that it will meet a set of standards or to implement new technology. The challenge focused on the aspect of web developement accessibility. The acceptance criteria were as followed.
 
 ## Acceptance Criteria:
 - Semantic HTML Elements
