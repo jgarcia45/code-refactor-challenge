@@ -41,7 +41,6 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
 /* Header Ends */
 
 a {
@@ -53,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero Style Starts */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Sytle Ends */
 
 .float-left {
     float: left;
@@ -78,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* Benefits Starts */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -136,26 +138,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End of Benefits Style */
 
+/* Search Engine Optimization Starts */
 .search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -168,29 +154,53 @@ p {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+/* Search Engine Optimization Ends */
+
+/* Online Reputation Management Starts */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Online Reputation Management Ends */
+
+/* Social Media Marketing Starts */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Social Media MArketing Ends */
 
+/* Footer Sytle */
 footer {
     padding: 30px;
     clear: both;
@@ -201,3 +211,4 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+/* Footer Style Ends */
